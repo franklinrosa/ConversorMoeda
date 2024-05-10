@@ -35,7 +35,7 @@ class _HomeViewState extends State<HomeView> {
             padding: const EdgeInsets.only(left: 30, right: 30, top: 100),
             child: Column(children: [
               Image.asset(
-                'assets/image/logo.png',
+                'assets/image/logo3.png',
                 width: 200,
                 height: 200,
               ),
