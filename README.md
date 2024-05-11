@@ -1,12 +1,13 @@
-# conversor_curso
-
+# Conversor de Moeda
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Um App em Flutter, conversão de moedas, app feito através do curso Flutterando, com Jacob Moura.
+Converte entre Real, Dolar, Euro, Bitcoin.
+### Imagem do App
 
-A few resources to get you started if this is your first Flutter project:
+![tela](https://github.com/franklinrosa/ConversorMoeda/assets/97204342/b9c98bf3-1fa5-489e-8d1f-786bc2bbf143)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
