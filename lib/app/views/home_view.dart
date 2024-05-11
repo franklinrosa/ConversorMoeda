@@ -36,10 +36,10 @@ class _HomeViewState extends State<HomeView> {
             child: Column(children: [
               Image.asset(
                 'assets/image/logo3.png',
-                width: 200,
-                height: 200,
+                width: 150,
+                height: 150,
               ),
-              const SizedBox(height: 20),
+              const SizedBox(height: 50),
               CurrencyBox(
                 selectedItem: homeController.toCurrency,
                 controller: homeController.toText,
